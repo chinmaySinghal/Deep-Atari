@@ -1,5 +1,5 @@
 # Deep-Atari
-Reinforcement Learning project for the Computational Coginitive Modelling class taught by Prof. Brenden Lake at NYU.
+Reinforcement Learning project for the Computational Cognitive Modelling class taught by Prof. Brenden Lake at NYU.
 
 <h2>About</h2>
 
